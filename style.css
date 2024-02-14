@@ -1,0 +1,29 @@
+* {
+      margin: 0;
+      background-color: black;
+}
+
+.bulb {
+      height: 100vh;
+      display: block;
+      width: 45%;
+}
+
+.btn {
+      position: absolute;
+      bottom: 80px;
+      left: 280px;
+      padding: 10px;
+      font-weight: bolder;
+      font-size: x-large;
+      background-color: #008000c8;
+      text-transform: uppercase;
+      color: white;
+      border-radius: 5px;
+      outline: 0;
+      border: 0;
+}
+
+.btn:hover {
+      background-color: green;
+}
